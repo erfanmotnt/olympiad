@@ -18,6 +18,6 @@ permalink: /
 }
 </style>
 <div class="code-example" markdown="1">
-- <span class="btnn">[CLASS 1](http://0.0.0.0:4000/just-the-docs/docs/introductory/){: .btn .bg-grey-lt-100 .text-grey-dk-300}</span> <span class="textt">[Introductory](http://0.0.0.0:4000/just-the-docs/docs/introductory/)</span>
-- <span class="btnn">[CLASS 2](http://0.0.0.0:4000/just-the-docs/docs/advanced-1/){: .btn .bg-yellow-100 .text-grey-dk-300}</span> <span class="textt">[Advanced 1](http://0.0.0.0:4000/just-the-docs/docs/advanced-1/)</span>
+- <span class="btnn">[CLASS 1](http://45.147.77.169:4000/just-the-docs/docs/introductory/){: .btn .bg-grey-lt-100 .text-grey-dk-300}</span> <span class="textt">[Introductory](http://45.147.77.169:4000/just-the-docs/docs/introductory/)</span>
+- <span class="btnn">[CLASS 2](http://45.147.77.169:4000/just-the-docs/docs/advanced-1/){: .btn .bg-yellow-100 .text-grey-dk-300}</span> <span class="textt">[Advanced 1](http://45.147.77.169:4000/just-the-docs/docs/advanced-1/)</span>
 </div>
