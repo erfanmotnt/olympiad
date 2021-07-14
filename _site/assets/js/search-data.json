@@ -2,73 +2,73 @@
     "doc": "advanced-1",
     "title": "advanced-1",
     "content": "# Advanced 1 ## week 1 - [LECTURE 1](http://45.147.77.169:4000/just-the-docs/docs/advanced-1-lectures/number-theory-1/){: .btn .bg-yellow-100 .text-grey-dk-300} [Number Theory](http://45.147.77.169:4000/just-the-docs/docs/advanced-1-lectures/number-theory-1/) - [LECTURE 2](http://45.147.77.169:4000/just-the-docs/docs/advanced-1-lectures/algebra-1/){: .btn .bg-grey-lt-100 .text-grey-dk-300} [Algebra](http://45.147.77.169:4000/just-the-docs/docs/advanced-1-lectures/algebra-1/) - [LECTURE 3](http://45.147.77.169:4000/just-the-docs/docs/advanced-1-lectures/combinatory-1/){: .btn .bg-green-100 .text-grey-dk-300} [Combinatory](http://45.147.77.169:4000/just-the-docs/docs/advanced-1-lectures/combinatory-1/) - [LECTURE 4](http://45.147.77.169:4000/just-the-docs/docs/advanced-1-lectures/geometry-1/){: .btn .bg-blue-000 .text-grey-dk-300} [Geometry](http://45.147.77.169:4000/just-the-docs/docs/advanced-1-lectures/geometry-1/) ## week 2 - [LECTURE 1](http://45.147.77.169:4000/just-the-docs/docs/advanced-1-lectures/number-theory-2/){: .btn .bg-yellow-100 .text-grey-dk-300} [Number Theory](http://45.147.77.169:4000/just-the-docs/docs/advanced-1-lectures/number-theory-2/) - [LECTURE 2](http://45.147.77.169:4000/just-the-docs/docs/advanced-1-lectures/algebra-2/){: .btn .bg-grey-lt-100 .text-grey-dk-300} [Algebra](http://45.147.77.169:4000/just-the-docs/docs/advanced-1-lectures/algebra-2/) - [LECTURE 3](http://45.147.77.169:4000/just-the-docs/docs/advanced-1-lectures/combinatory-2/){: .btn .bg-green-100 .text-grey-dk-300} [Combinatory](http://45.147.77.169:4000/just-the-docs/docs/advanced-1-lectures/combinatory-2/) - [LECTURE 4](http://45.147.77.169:4000/just-the-docs/docs/advanced-1-lectures/geometry-2/){: .btn .bg-blue-000 .text-grey-dk-300} [Geometry](http://45.147.77.169:4000/just-the-docs/docs/advanced-1-lectures/geometry-2/) ",
-    "url": "http://47.147.77.169:4000/just-the-docs/docs/advanced-1/",
+    "url": "http://0.0.0.0:4000/just-the-docs/docs/advanced-1/",
     "relUrl": "/docs/advanced-1/"
   },"1": {
     "doc": "algebra-1",
     "title": "algebra-1",
     "content": " ",
-    "url": "http://47.147.77.169:4000/just-the-docs/docs/introductory-lectures/algebra-1/",
+    "url": "http://0.0.0.0:4000/just-the-docs/docs/introductory-lectures/algebra-1/",
     "relUrl": "/docs/introductory-lectures/algebra-1/"
   },"2": {
     "doc": "algebra-1",
     "title": "algebra-1",
     "content": " ",
-    "url": "http://47.147.77.169:4000/just-the-docs/docs/advanced-1-lectures/algebra-1/",
+    "url": "http://0.0.0.0:4000/just-the-docs/docs/advanced-1-lectures/algebra-1/",
     "relUrl": "/docs/advanced-1-lectures/algebra-1/"
   },"3": {
     "doc": "combinatory-1",
     "title": "combinatory-1",
     "content": " ",
-    "url": "http://47.147.77.169:4000/just-the-docs/docs/advanced-1-lectures/combinatory-1/",
+    "url": "http://0.0.0.0:4000/just-the-docs/docs/advanced-1-lectures/combinatory-1/",
     "relUrl": "/docs/advanced-1-lectures/combinatory-1/"
   },"4": {
     "doc": "geometry-1",
     "title": "geometry-1",
     "content": " ",
-    "url": "http://47.147.77.169:4000/just-the-docs/docs/introductory-lectures/geometry-1/",
+    "url": "http://0.0.0.0:4000/just-the-docs/docs/introductory-lectures/geometry-1/",
     "relUrl": "/docs/introductory-lectures/geometry-1/"
   },"5": {
     "doc": "geometry-1",
     "title": "geometry-1",
     "content": " ",
-    "url": "http://47.147.77.169:4000/just-the-docs/docs/advanced-1-lectures/geometry-1/",
+    "url": "http://0.0.0.0:4000/just-the-docs/docs/advanced-1-lectures/geometry-1/",
     "relUrl": "/docs/advanced-1-lectures/geometry-1/"
   },"6": {
     "doc": "Home",
     "title": "Home",
     "content": "# Classes - [CLASS 1](http://45.147.77.169:4000/just-the-docs/docs/introductory/){: .btn .bg-grey-lt-100 .text-grey-dk-300} [Introductory](http://45.147.77.169:4000/just-the-docs/docs/introductory/) - [CLASS 2](http://45.147.77.169:4000/just-the-docs/docs/advanced-1/){: .btn .bg-yellow-100 .text-grey-dk-300} [Advanced 1](http://45.147.77.169:4000/just-the-docs/docs/advanced-1/) ",
-    "url": "http://47.147.77.169:4000/just-the-docs/",
+    "url": "http://0.0.0.0:4000/just-the-docs/",
     "relUrl": "/"
   },"7": {
     "doc": "Introductory",
     "title": "Introductory",
     "content": "# Introductory ## week 1 - [LECTURE 1](http://45.147.77.169:4000/just-the-docs/docs/introductory-lectures/geometry-1/){: .btn .bg-blue-000 .text-grey-dk-300} [Geometry](http://45.147.77.169:4000/just-the-docs/docs/introductory-lectures/geometry-1/) - [LECTURE 2](http://45.147.77.169:4000/just-the-docs/docs/introductory-lectures/algebra-1/){: .btn .bg-grey-lt-100 .text-grey-dk-300} [Algebra](http://45.147.77.169:4000/just-the-docs/docs/introductory-lectures/algebra-1/) ",
-    "url": "http://47.147.77.169:4000/just-the-docs/docs/introductory/",
+    "url": "http://0.0.0.0:4000/just-the-docs/docs/introductory/",
     "relUrl": "/docs/introductory/"
   },"8": {
     "doc": "introductory-lectures",
     "title": "introductory-lectures",
     "content": "# lectures {: .fs-6 .fw-300 } ",
-    "url": "http://47.147.77.169:4000/just-the-docs/docs/introductory-lectures",
+    "url": "http://0.0.0.0:4000/just-the-docs/docs/introductory-lectures",
     "relUrl": "/docs/introductory-lectures"
   },"9": {
     "doc": "advanced-1-lectures",
     "title": "advanced-1-lectures",
     "content": "# lectures {: .fs-6 .fw-300 } ",
-    "url": "http://47.147.77.169:4000/just-the-docs/docs/advanced-1-lectures",
+    "url": "http://0.0.0.0:4000/just-the-docs/docs/advanced-1-lectures",
     "relUrl": "/docs/advanced-1-lectures"
   },"10": {
     "doc": "number-theory-1",
     "title": "number-theory-1",
     "content": " ",
-    "url": "http://47.147.77.169:4000/just-the-docs/docs/advanced-1-lectures/number-theory-1/",
+    "url": "http://0.0.0.0:4000/just-the-docs/docs/advanced-1-lectures/number-theory-1/",
     "relUrl": "/docs/advanced-1-lectures/number-theory-1/"
   },"11": {
     "doc": "number-theory-2",
     "title": "number-theory-2",
     "content": " ",
-    "url": "http://47.147.77.169:4000/just-the-docs/docs/advanced-1-lectures/number-theory-2/",
+    "url": "http://0.0.0.0:4000/just-the-docs/docs/advanced-1-lectures/number-theory-2/",
     "relUrl": "/docs/advanced-1-lectures/number-theory-2/"
   }
 }
