@@ -59,7 +59,7 @@ jtd.getTheme = function() {
 
 jtd.setTheme = function(theme) {
   var cssFile = document.querySelector('[rel="stylesheet"]');
-  cssFile.setAttribute('href', 'http://0.0.0.0:4000/just-the-docs/assets/css/just-the-docs-' + theme + '.css');
+  cssFile.setAttribute('href', 'http://esfoly.ir/just-the-docs/assets/css/just-the-docs-' + theme + '.css');
 }
 
 // Document ready

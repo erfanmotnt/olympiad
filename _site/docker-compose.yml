@@ -10,5 +10,11 @@ services:
       - .:/usr/src/app
     stdin_open: true
     tty: true
-    command: bundle _2.1.4_ exec jekyll serve --host=0.0.0.0 -t
+    command: bundle _2.1.4_ exec jekyll serve -H esfoly.ir --port 80 -t
 
+  nginx:
+    build: ./nginx
+    ports:
+      - 80:80
+    depends_on:
+      - jekyll

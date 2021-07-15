@@ -10,7 +10,7 @@ services:
       - .:/usr/src/app
     stdin_open: true
     tty: true
-    command: bundle _2.1.4_ exec jekyll serve -H 0.0.0.0 -t
+    command: bundle _2.1.4_ exec jekyll serve -H 0.0.0.0 --port 4000 -t
 
   nginx:
     build: ./nginx
