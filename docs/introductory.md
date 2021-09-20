@@ -14,8 +14,20 @@ nav_order: 1
   font-size: 10px;
 }
 </style>
+
 <div class="code-example" markdown="1">
-## week 1
-- <span class="btnn">[LECTURE 1](http://esfoly.ir/just-the-docs/docs/introductory-lectures/geometry-1/){: .btn .bg-blue-000 .text-grey-dk-300}</span> <span class="textt">[Geometry](http://esfoly.ir/just-the-docs/docs/introductory-lectures/geometry-1/)</span>
-- <span class="btnn">[LECTURE 2](http://esfoly.ir/just-the-docs/docs/introductory-lectures/algebra-1/){: .btn .bg-grey-lt-100 .text-grey-dk-300}</span> <span class="textt">[Algebra](http://esfoly.ir/just-the-docs/docs/introductory-lectures/algebra-1/)</span>
+## Number Theory
+</div>
+<div class="code-example" markdown="1">
+## Algebra
+- <span class="btnn">[LECTURE 2](/just-the-docs/docs/introductory-lectures/algebra-1/){: .btn .bg-grey-lt-100 .text-grey-dk-300}</span> <span class="textt">[Algebra](/just-the-docs/docs/introductory-lectures/algebra-1/)</span>
+</div>
+
+<div class="code-example" markdown="1">
+## Combinatory
+</div>
+
+<div class="code-example" markdown="1">
+## Geometry
+- <span class="btnn">[LECTURE 1](/just-the-docs/docs/introductory-lectures/geometry-1/){: .btn .bg-blue-000 .text-grey-dk-300}</span> <span class="textt">[Geometry](/just-the-docs/docs/introductory-lectures/geometry-1/)</span>
 </div>

@@ -18,6 +18,7 @@ permalink: /
 }
 </style>
 <div class="code-example" markdown="1">
-- <span class="btnn">[CLASS 1](http://esfoly.ir/just-the-docs/docs/introductory/){: .btn .bg-grey-lt-100 .text-grey-dk-300}</span> <span class="textt">[Introductory](http://esfoly.ir/just-the-docs/docs/introductory/)</span>
-- <span class="btnn">[CLASS 2](http://esfoly.ir/just-the-docs/docs/advanced-1/){: .btn .bg-yellow-100 .text-grey-dk-300}</span> <span class="textt">[Advanced 1](http://esfoly.ir/just-the-docs/docs/advanced-1/)</span>
+## Math
+- <span class="btnn">[CLASS 1](/docs/introductory/){: .btn .bg-grey-lt-100 .text-grey-dk-300}</span> <span class="textt">[Introductory](/docs/introductory/)</span>
+- <span class="btnn">[CLASS 2](//docs/advanced-1/){: .btn .bg-yellow-100 .text-grey-dk-300}</span> <span class="textt">[Advanced 1](/docs/advanced-1/)</span>
 </div>
